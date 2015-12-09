@@ -2,6 +2,5 @@
 
 * [Introduction](README.md)
 * [B](back.md)
-   * bake
-   * [back](back.md)
+   * [bake](bake.md)
 
