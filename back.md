@@ -1,3 +1,1 @@
-# back
-
->作为副词，要注意它究竟是管后面另一个状语成分的，还是同前面（例如动词）结合或是修饰前面动词的。【例如】Now he was *back*. 现在他回来了。/ He had no idea how anxious his wife was back in Mexico. 他不晓得他妻子在墨西哥老家是多么的着急。/ There are no dusty cassette-tape fragments among the ancient bones, for example, to tell us how language was *back* in the early stages. 古代骨骼堆中，又没有带尘土的录音带碎片来告诉women，在那些远古时代，语言是怎么样的。又例如：For one night, New York City was as it was *back* before air conditioning. 纽约市有一夜简直就像昔日没有发明空提哦之前那样子。这四句都有was back，但是在第一句中，back同前面的was直接结合；在后三句中，back同前面的was没有直接关系，是用来加强后面时间状语的“老家”或“昔日”的意义。back同后面的的状语连在一起，还有另外一个意义，就是相当于again，表示“重新如何如何”。【例如】US security company Blackwater was *back* on the streets of Baghdad on Friday. 美军“黑水连”星期五又重新出现在巴格达接头。/ The wound did not hit any major arteries or bones and he was *back* in the fight within two weeks. 伤势没有触及任何主要动脉或骨头，于是过了两周，他又重新参加战斗。
+#B b
